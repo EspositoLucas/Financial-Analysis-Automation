@@ -29,7 +29,7 @@ This project analyzes personal banking transactions from BBVA Argentina Online B
 
 ## Project Structure
 ```
-personal-finance-analysis/
+Finance-Analysis-Automation/
 │
 ├── data/
 │   └── transactions_2024.csv
